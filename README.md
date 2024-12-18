@@ -2,5 +2,5 @@
 ***
 #### Hi I'm George
 ##### An Upper-Sixth A-Level student.
-##### I am currently experimenting with creating LLMs that evolve through conversational sessions with users.
-##### In my projects I use **PyTorch** for ML, **NextJS** for Front-End Development and **FastAPI** for Back-End
+I am currently experimenting with creating LLMs that evolve through conversational sessions with users.
+In my projects I use **PyTorch** for ML, **NextJS** for Front-End Development and **FastAPI** for Back-End
